@@ -6,7 +6,7 @@ annotated toward the target in the corresponding source tweet. Format of data is
 id, main (source tweet), reply, target, label of each annotator id and in the end majority_label.
 
 ## Train and Test Files
-Training data `train_final.csv` and test data `test_final.csv` are provided in ths repository, please cite our paper if you used our data.
+Training data `train_final.csv` and test data `test_final.csv` are provided in this repository, please cite our paper if you used our data.
 
 ## Request for The Code
 If you would like to access our training code, please contact via research@exalab.co with subject: ExaASC Request.
